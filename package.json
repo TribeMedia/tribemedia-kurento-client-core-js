@@ -1,6 +1,6 @@
 {
   "name": "tribemedia-kurento-client-core-js",
-  "version": "6.0.1-dev",
+  "version": "6.0.0",
   "description": "Base classes for kurento media server api",
   "main": "lib/index.js",
   "repository": {
